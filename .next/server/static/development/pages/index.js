@@ -113,7 +113,7 @@ var _jsxFileName = "/Users/leemacpherson/Ryo_Folder/Random_projects/recommende/p
       lineNumber: 1
     },
     __self: this
-  }, "Welcome to next.js!");
+  }, "w00t w00t, next.js!");
 });
 
 /***/ }),
